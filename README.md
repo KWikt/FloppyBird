@@ -13,8 +13,8 @@ Score Counter
 
 How to Play:
 
-Download all stuf from Git
-Unzip them and unzip UnityPlayer.7z and FloppyBird_Data.7z too.
+Download game folder
+Unzip them and unzip BigData.7z
 Click FloppyBird App to open.
 
 Game was made in couple of hours to test unity. 
